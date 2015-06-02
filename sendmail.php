@@ -1,7 +1,7 @@
 <?php 
 	if(isset($_POST['send'])) {
 		
-		$email_to = "srnvs0708@gmail.com";
+		$email_to = "someone@something.com";
 		$email_subject = "This a php contact form mail";
 		
 		
